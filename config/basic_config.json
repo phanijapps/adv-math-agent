@@ -1,0 +1,8 @@
+{
+  "model": "openai/gpt-3.5-turbo",
+  "temperature": 0.2,
+  "max_iterations": 8,
+  "verbose": false,
+  "memory_enabled": true,
+  "user_id": "basic_user"
+}

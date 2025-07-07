@@ -1,0 +1,8 @@
+{
+  "model": "openai/gpt-4-turbo-preview",
+  "temperature": 0.1,
+  "max_iterations": 15,
+  "verbose": true,
+  "memory_enabled": true,
+  "user_id": "advanced_user"
+}
